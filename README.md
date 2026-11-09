@@ -23,7 +23,7 @@ mikroBUS™ Click-format board for remote temperature sensing and alarm indicati
 - 2-layer, mostly SMD (1206, SOT-23, VSSOP-8, SC-70-6), 1.2" × 1.7"
 - Hand-routed, bottom ground pour, Gerbers verified on JLCPCB
 
-### [Project 3 – PIC32MX Clicker Development Board](Project3 - Microcontroller/)
+### [Project 3 – PIC32MX Clicker Development Board](Project 3 - Microcontroller/)
 4-layer microcontroller development board based on the MikroE PIC32MX Clicker, with a mikroBUS™ host socket for Click add-on boards.
 
 - PIC32MX534F064H MCU (TQFP-64), with 100 nF decoupling at every VDD pin and a 10 µF VCAP capacitor for the internal core regulator
