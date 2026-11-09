@@ -11,6 +11,7 @@ Stereo audio amplifier built around two LM386N-1 power amps.
 - 9 V input with 1N4001 reverse-polarity protection and power LED
 - 2-layer through-hole board, 2" × 3", with corner mounting holes
 - Top-layer routing, bottom-layer ground pour
+- Fixes: needs two audio jacks, 20 mil away from border for the ground pour 
 
 ### [Project 2 – Temperature Alarm Click Board](Project2-TempAlarm/)
 mikroBUS™ Click-format board for remote temperature sensing and alarm indication.
